@@ -18,14 +18,17 @@ From your desktop folder open the HTML file in your browser
 
 ## NyanCatSweeper
 ![alt text](https://github.com/pohutukawa-2020/GLTE/blob/dff111da58a49a95b279b2ba6f3f9eaa83510dec/server/public/glte.jpeg)
+Find my repo [here](https://github.com/tatiana-bernon/NyanCat-Sweeper)
 
 ## WhackAVirus
 ![alt text](https://github.com/pohutukawa-2020/GLTE/blob/dff111da58a49a95b279b2ba6f3f9eaa83510dec/server/public/glte.jpeg)
+Find my repo [here](https://github.com/tatiana-bernon/Whack-a-virus)
 
 ## Dress Da Clown!
 ![alt text](https://github.com/pohutukawa-2020/GLTE/blob/dff111da58a49a95b279b2ba6f3f9eaa83510dec/server/public/glte.jpeg)
+Find my repo [here](https://github.com/tatiana-bernon/Dress-Da-Clown)
 
 ## Inflate the Unicorn
 ![alt text](https://github.com/pohutukawa-2020/GLTE/blob/dff111da58a49a95b279b2ba6f3f9eaa83510dec/server/public/glte.jpeg)
-
+Find my repo [here](https://github.com/tatiana-bernon/Inflate-the-Unicorn)
 
