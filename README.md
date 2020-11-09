@@ -29,6 +29,6 @@ Find my repo [here](https://github.com/tatiana-bernon/Whack-a-virus)
 Find my repo [here](https://github.com/tatiana-bernon/Dress-Da-Clown)
 
 ## Inflate the Unicorn
-![alt text](https://github.com/tatiana-bernon/JavaScript-Game-Carnival/blob/4e622c39217569a502182d9910f23b7c872ce2e0/InflatetheUnicorn.png)
+![alt text](https://github.com/tatiana-bernon/JavaScript-Game-Carnival/blob/0ad6f14d9d4d65d5b63d2c79076b909475ffef6e/InflatetheUnicorn.png)
 Find my repo [here](https://github.com/tatiana-bernon/Inflate-the-Unicorn)
 
